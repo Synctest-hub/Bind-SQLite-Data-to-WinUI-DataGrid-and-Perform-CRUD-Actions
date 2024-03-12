@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SQLiteWithWinUIDataGrid (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SQLiteWithWinUIDataGrid (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
